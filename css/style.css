@@ -4,7 +4,7 @@ body{
 }
 
 #canvas{
-  background: red;
+  background: grey;
   height:100vh;
   position: relative;
 }
